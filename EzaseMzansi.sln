@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "EzaseMzansi", "EzaseMzansi.phpproj", "{3DB92CB7-9205-4D0A-84F0-C500C6BAC80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|PHP 5.5 = Release|PHP 5.5
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB92CB7-9205-4D0A-84F0-C500C6BAC80A}.Release|PHP 5.5.ActiveCfg = Release|PHP 5.5
+		{3DB92CB7-9205-4D0A-84F0-C500C6BAC80A}.Release|PHP 5.5.Deploy.0 = Release|PHP 5.5
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

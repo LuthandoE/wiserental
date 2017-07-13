@@ -1,0 +1,124 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Release|PHP 5.5"
+    {
+    }
+}
+"Files"
+{
+    "addNews.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap-theme.min.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.min.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\bootstrap.min.css.map"
+    {
+    "ProjRelPath" = "T"
+    }
+    "css\\w3.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "error_handler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "EzaseMzansi.intellisense.cache"
+    {
+    "ProjRelPath" = "T"
+    }
+    "EzaseMzansi.sln"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\bootstrap.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\bootstrap.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery-1.11.2.min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\npm.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "Navbar.htm"
+    {
+    "ProjRelPath" = "T"
+    }
+    "News.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "reward.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "rules.php"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
